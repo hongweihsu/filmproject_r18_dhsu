@@ -1,9 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-const HomeMovies = () => {
-  return (
-    <div>HomeMovies</div>
-  )
-}
+const HomeMovies = () => (
+  <div>HomeMovies</div>
+);
 
-export default HomeMovies
+export default HomeMovies;
